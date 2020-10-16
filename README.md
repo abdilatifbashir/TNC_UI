@@ -12,6 +12,6 @@ The following instructions will get a copy of TNC Test up and running on your lo
 
 ### Running the application
 
-cd TNC_UI (if not at the root directory)
-npm install or yarn install
-npm start or yarn start
+- cd TNC_UI (if not at the root directory)
+- npm install or yarn install
+- npm start or yarn start
