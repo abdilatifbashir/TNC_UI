@@ -14,14 +14,17 @@ export const Container = styled.div`
     background: #282544;
   }
   .headers {
+    span:nth-child(1) {
+      border-bottom-color: red;
+    }
     display: flex;
     flex-direction: row;
     // justify-content: space-between;
     // width: 390px;
     padding: 15px 0px 15px 0px;
     color: #ffffff;
-    span{
-      margin-right:20px;s
+    span {
+      margin-right: 20px;
     }
   }
   .table-secttion {
@@ -74,6 +77,7 @@ export const Container = styled.div`
   }
   .buy {
     width: 56px;
+    padding-top: 3px;
     height: 29px;
     left: 844px;
     top: 701px;

@@ -2,6 +2,7 @@ export const marketValues = [
   {
     id: 1,
     icon: "/greenIcon.png",
+    color: " #53E59E",
     name: "BTC",
     price: 2254.888555,
     change: 2254.888,
@@ -10,6 +11,7 @@ export const marketValues = [
   {
     id: 2,
     icon: "/redIcon.png",
+    color: " #53E59E",
     name: "ETH",
     price: 2254.88866,
     change: 2254.822,
@@ -18,6 +20,7 @@ export const marketValues = [
   {
     id: 3,
     icon: "/yellowIcon.png",
+    color: "#EB5757",
     name: "LSK",
     price: 2254.888346,
     change: 2254.822,
@@ -27,6 +30,7 @@ export const marketValues = [
   {
     id: 4,
     icon: "/purpleIcon.png",
+    color: "#53E59E",
     name: "XRP",
     price: 2334.8811,
     change: 2254.822,
@@ -35,6 +39,7 @@ export const marketValues = [
   {
     id: 5,
     icon: "/blueIcon.png",
+    color: "#EB5757",
     name: "ETP",
     price: 23454.88,
     change: 2254.822,

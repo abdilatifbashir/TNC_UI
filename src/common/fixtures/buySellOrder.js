@@ -5,6 +5,7 @@ export const BuySellerOrders = [
   {
     id: 1,
     rate: 254788,
+    color: "#53E59E",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -12,6 +13,7 @@ export const BuySellerOrders = [
   {
     id: 2,
     rate: 254788,
+    color: "#53E59E",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -19,6 +21,7 @@ export const BuySellerOrders = [
   {
     id: 3,
     rate: 254788,
+    color: "#53E59E",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -26,6 +29,7 @@ export const BuySellerOrders = [
   {
     id: 4,
     rate: 254788,
+    color: "#EB5757",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -33,6 +37,7 @@ export const BuySellerOrders = [
   {
     id: 5,
     rate: 254788,
+    color: "#EB5757",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -40,6 +45,7 @@ export const BuySellerOrders = [
   {
     id: 5,
     rate: 254788,
+    color: "#EB5757",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",
@@ -47,6 +53,7 @@ export const BuySellerOrders = [
   {
     id: 5,
     rate: 254788,
+    color: "#EB5757",
     amount: "0.254.888555",
     price: 225.87,
     star: "/cart.png",

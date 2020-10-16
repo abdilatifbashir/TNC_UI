@@ -41,7 +41,7 @@ const CurrencyTable = () => {
               {value.name}
             </td>
             <td>{value.price}</td>
-            <td>
+            <td style={{ color: value.color }}>
               {`=${value.change}`}
               <span>&nbsp;</span>
               <span>&nbsp;</span>

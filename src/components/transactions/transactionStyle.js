@@ -3,7 +3,7 @@ import styled from "styled-components";
 const TransactionTableContainer = styled.div`
   table {
     text-align: center;
-    margin-left: 50px;
+    margin-left: 40px;
     padding: 20px;
     tr {
       th {

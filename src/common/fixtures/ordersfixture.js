@@ -1,8 +1,8 @@
-
 export const OrderValues = [
   {
     id: 1,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -11,6 +11,7 @@ export const OrderValues = [
   {
     id: 2,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -19,6 +20,7 @@ export const OrderValues = [
   {
     id: 3,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -28,6 +30,7 @@ export const OrderValues = [
   {
     id: 4,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -36,6 +39,7 @@ export const OrderValues = [
   {
     id: 5,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -44,6 +48,7 @@ export const OrderValues = [
   {
     id: 5,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",
@@ -52,6 +57,7 @@ export const OrderValues = [
   {
     id: 5,
     icon: "/greenIcon.png",
+    color: "#53E59E",
     rate: 254788,
     amount: 2254.888555,
     price: "22.5%",

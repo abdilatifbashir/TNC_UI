@@ -48,7 +48,7 @@ const OrderTable = ({ OrderData }) => {
               {value.rate}
             </td>
             <td>{value.amount}</td>
-            <td>
+            <td style={{ color: value.color }}>
               {/* {`${value.price}%`} */}
               {value.price}
               <span>&nbsp;</span>

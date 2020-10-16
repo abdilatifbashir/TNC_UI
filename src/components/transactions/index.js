@@ -13,14 +13,14 @@ const TransactionTable = () => {
               <img src="/iconM.png" />
               {"   "}
             </span>
-            Rate Plan
+            Rate
           </th>
           <th>
             <span>
               <img src="/iconM.png" />
               {"   "}
             </span>
-            Amount ETR
+            Amount
           </th>
           <th>
             <span>

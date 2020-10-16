@@ -3,18 +3,17 @@ import styled from "styled-components";
 const LayoutWrapper = styled.div`
   display: flex;
   flex-direction: row;
-
   gap: 20px;
   .sidebar {
     background: #282544;
     width: 80px;
-    // height: 1100px;
+
     left: 5px;
     top: 4px;
 
     ul {
-      margin-top: 20px;
-      margin-right: 10px;
+      margin-top: 30px;
+      margin-right: 20px;
       text-align: center;
       li:nth-child(3) {
         // background:#4F4F4F;
@@ -37,7 +36,7 @@ const LayoutWrapper = styled.div`
     color: #ffff;
     margin-top: 21px;
     width: 500px;
-    // height: 349px;
+
     background: #282544;
     div {
       ul {
