@@ -4,8 +4,6 @@ export const Container = styled.div`
   .graph {
     background: #282544;
     margin: 12px 0px 50px 0px;
-    // height: 350px;
-    // width: 700px;
   }
   .marked_order {
     height: 150px;
@@ -33,7 +31,6 @@ export const Container = styled.div`
     justify-content: space-between;
   }
   .left-table {
-    //width: 350px;
     height: 150px;
     left: 446px;
     top: 574px;
@@ -41,14 +38,12 @@ export const Container = styled.div`
   }
   .right-table {
     background: #24233d;
-    // width: 350px;
     height: 150px;
   }
   .table-items {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    // width: 390px;
     color: #ffffff;
     font-size: 15px;
     font-style: normal;

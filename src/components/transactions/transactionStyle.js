@@ -16,8 +16,6 @@ const TransactionTableContainer = styled.div`
         background: #1f1d39;
         width: 270px;
         height: 26px;
-        // left: 113px;
-        // top: 165px;
         background: #1f1d39;
         border-radius: 33px;
       }
